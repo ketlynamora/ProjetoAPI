@@ -8,7 +8,7 @@ namespace ProjetoAPI.Aplicacao
 {
     public class UsuarioAplicacao
     {
-        private ApiContext _contexto;
+        private readonly ApiContext _contexto;
 
         public UsuarioAplicacao(ApiContext contexto)
         {

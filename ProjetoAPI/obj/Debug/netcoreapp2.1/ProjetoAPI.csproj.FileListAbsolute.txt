@@ -1,0 +1,17 @@
+C:\Users\ketlyn.a\source\repos\Projetos\ProjetoAPI\ProjetoAPI\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\ketlyn.a\source\repos\Projetos\ProjetoAPI\ProjetoAPI\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\ketlyn.a\source\repos\Projetos\ProjetoAPI\ProjetoAPI\bin\Debug\netcoreapp2.1\ProjetoAPI.deps.json
+C:\Users\ketlyn.a\source\repos\Projetos\ProjetoAPI\ProjetoAPI\bin\Debug\netcoreapp2.1\ProjetoAPI.runtimeconfig.json
+C:\Users\ketlyn.a\source\repos\Projetos\ProjetoAPI\ProjetoAPI\bin\Debug\netcoreapp2.1\ProjetoAPI.runtimeconfig.dev.json
+C:\Users\ketlyn.a\source\repos\Projetos\ProjetoAPI\ProjetoAPI\bin\Debug\netcoreapp2.1\ProjetoAPI.dll
+C:\Users\ketlyn.a\source\repos\Projetos\ProjetoAPI\ProjetoAPI\bin\Debug\netcoreapp2.1\ProjetoAPI.pdb
+C:\Users\ketlyn.a\source\repos\Projetos\ProjetoAPI\ProjetoAPI\obj\Debug\netcoreapp2.1\ProjetoAPI.csprojAssemblyReference.cache
+C:\Users\ketlyn.a\source\repos\Projetos\ProjetoAPI\ProjetoAPI\obj\Debug\netcoreapp2.1\ProjetoAPI.AssemblyInfoInputs.cache
+C:\Users\ketlyn.a\source\repos\Projetos\ProjetoAPI\ProjetoAPI\obj\Debug\netcoreapp2.1\ProjetoAPI.AssemblyInfo.cs
+C:\Users\ketlyn.a\source\repos\Projetos\ProjetoAPI\ProjetoAPI\obj\Debug\netcoreapp2.1\ProjetoAPI.csproj.CoreCompileInputs.cache
+C:\Users\ketlyn.a\source\repos\Projetos\ProjetoAPI\ProjetoAPI\obj\Debug\netcoreapp2.1\ProjetoAPI.RazorAssemblyInfo.cache
+C:\Users\ketlyn.a\source\repos\Projetos\ProjetoAPI\ProjetoAPI\obj\Debug\netcoreapp2.1\ProjetoAPI.RazorAssemblyInfo.cs
+C:\Users\ketlyn.a\source\repos\Projetos\ProjetoAPI\ProjetoAPI\obj\Debug\netcoreapp2.1\ProjetoAPI.RazorTargetAssemblyInfo.cache
+C:\Users\ketlyn.a\source\repos\Projetos\ProjetoAPI\ProjetoAPI\obj\Debug\netcoreapp2.1\ProjetoAPI.dll
+C:\Users\ketlyn.a\source\repos\Projetos\ProjetoAPI\ProjetoAPI\obj\Debug\netcoreapp2.1\ProjetoAPI.pdb
+C:\Users\ketlyn.a\source\repos\Projetos\ProjetoAPI\ProjetoAPI\obj\Debug\netcoreapp2.1\ProjetoAPI.genruntimeconfig.cache

@@ -124,7 +124,7 @@ namespace ProjetoAPI.Controllers
                     return BadRequest("Nenhum usuário cadastrado!");
                 }
             }
-            catch (Exception)
+            catch (Exception ex)
             {
                 return BadRequest("Erro ao comunicar com a base de dados!");
             }
